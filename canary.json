@@ -1,12 +1,12 @@
 {
   "magisk": {
     "version": "d4e552d0",
-    "versionCode": "26301",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@ac34c108dedca819c3f944a03aec16e5acd81b41/app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@ac34c108dedca819c3f944a03aec16e5acd81b41/notes.md"
+    "versionCode": "26105",
+    "link": "https://moranwp.glitch.me/Magisk/app-release.apk",
+    "note": "https://moranwp.glitch.me/Magisk/notes.md"
   },
   "stub": {
     "versionCode": "37",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@ac34c108dedca819c3f944a03aec16e5acd81b41/stub-release.apk"
+    "link": "https://moranwp.glitch.me/Magisk/stub-release.apk"
   }
 }
